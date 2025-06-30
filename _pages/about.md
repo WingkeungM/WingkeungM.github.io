@@ -128,20 +128,7 @@ Yong-Qiang Mao's research interests include remote sensing and computer vision, 
     
   **Y. Mao**, Z. Jiang, Y. Liu, Y. Zhang, Y. Li, C. Yan, B. Zhang
   
-  *IEEE Geoscience and Remote Sensing Letters* ***(IEEE GRSL, Top, IF=4.4)*** 
-  </div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <img src='images/B2PM.png' alt="论文示意图" width="100%">
-  </div>
-  <div class='paper-box-text' markdown="1">
-  **Body Joint Boundary Prototype Match for Few Shot Remote Sensing Semantic Segmentation** [[**Paper Link**]](https://arxiv.org/pdf/2405.17140)
-    
-  **Y. Mao**, Z. Jiang, Y. Liu, Y. Zhang, Y. Li, C. Yan, B. Zhang
-  
-  *IEEE Geoscience and Remote Sensing Letters* ***(IEEE GRSL, Top, IF=4.7)*** 
+  *IEEE Geoscience and Remote Sensing Letters* ***(IEEE GRSL, IF=4.4)*** 
   </div>
 </div>
 
@@ -154,7 +141,7 @@ Yong-Qiang Mao's research interests include remote sensing and computer vision, 
     
   **Y. Mao**, Z. Guo, X. Lu, Z. Yuan, H. Guo
   
-  *2022 International Conference on 3D Vision (3DV2022, Oral)* ***(IEEE 3DV Oral)*** 
+  *2022 International Conference on 3D Vision* ***(IEEE 3DV 2022 Oral)*** 
   </div>
 </div>
 
@@ -191,7 +178,7 @@ Yong-Qiang Mao's research interests include remote sensing and computer vision, 
   <div class='paper-box-text' markdown="1">
   **Rethinking the Open-Loop Evaluation of End-to-End Autonomous Driving in nuScenes** [[**Paper Link**]](https://arxiv.org/pdf/2305.10430)
     
-  J. Zhai*, Z. Feng*, J. Du*, **Y. Mao***, J. Liu, Z. Tan, Y. Zhang, X. Ye, J. Wang (*Equal contribution)
+  J. Zhai*, Z. Feng*, J. Du*, **Y. Mao**, J. Liu, Z. Tan, Y. Zhang, X. Ye, J. Wang (*Equal contribution)
   
   *Technical Report* ***(Technical Report)*** 
   </div>
