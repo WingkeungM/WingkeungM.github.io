@@ -64,6 +64,253 @@ Yong-Qiang Mao's research interests include remote sensing and computer vision, 
   </div>
 </div>
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <img src='images/TDConvs.png' alt="论文示意图" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+  **Twin deformable point convolutions for airborne laser scanning point cloud classification** [[**Paper Link**]](https://www.sciencedirect.com/science/article/abs/pii/S092427162500036X)
+  **Y. Mao**, H. Bi, X. Li, K. Chen, Z. Wang, X. Sun, K. Fu
+  *ISPRS Journal of Photogrammetry and Remote Sensing* ***(ISPRS Journal Ph & RS, Top, IF=12.2)*** 
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <img src='images/Building3D.png' alt="论文示意图" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+  **Elevation Estimation-Driven Building 3D Reconstruction from Single-View Remote Sensing Imagery** [[**Paper Link**]](https://ieeexplore.ieee.org/abstract/document/10103685/)
+  **Y. Mao**, K. Chen, L. Zhao, W. Chen, D. Tang, W. Liu, Z. Wang, W. Diao, X. Sun, K. Fu
+  *IEEE Transactions on Geoscience and Remote Sensing* ***(IEEE TGRS, Top, IF=8.6)*** 
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <img src='images/SDLMVS.png' alt="论文示意图" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+  **SDL-MVS: View Space and Depth Deformable Learning Paradigm for Multi-View Stereo Reconstruction in Remote Sensing** [[**Paper Link**]](https://arxiv.org/pdf/2405.17140)
+  **Y. Mao**, H. Bi, L. Xu, K. Chen, Z. Wang, X. Sun, K. Fu
+  *IEEE Transactions on Geoscience and Remote Sensing* ***(IEEE TGRS, Top, IF=8.6)*** 
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <img src='images/FRORS.png' alt="论文示意图" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+  **FRORS: An Effective Fine-Grained Retrieval Framework for Optical Remote Sensing Images** [[**Paper Link**]](https://ieeexplore.ieee.org/abstract/document/10904305)
+  **Y. Mao**, Z. Jiang, Y. Liu, Y. Zhang, K. Qi, H. Bi, Y. He
+  *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing* ***(IEEE JSTARS, Top, IF=5.3)*** 
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <img src='images/B2PM.png' alt="论文示意图" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+  **Body Joint Boundary Prototype Match for Few Shot Remote Sensing Semantic Segmentation** [[**Paper Link**]](https://ieeexplore.ieee.org/abstract/document/10684825/)
+  **Y. Mao**, Z. Jiang, Y. Liu, Y. Zhang, Y. Li, C. Yan, B. Zhang
+  *IEEE Geoscience and Remote Sensing Letters* ***(IEEE GRSL, Top, IF=4.4)*** 
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <img src='images/B2PM.png' alt="论文示意图" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+  **Body Joint Boundary Prototype Match for Few Shot Remote Sensing Semantic Segmentation** [[**Paper Link**]](https://arxiv.org/pdf/2405.17140)
+  **Y. Mao**, Z. Jiang, Y. Liu, Y. Zhang, Y. Li, C. Yan, B. Zhang
+  *IEEE Geoscience and Remote Sensing Letters* ***(IEEE GRSL, Top, IF=4.7)*** 
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <img src='images/BFG.png' alt="论文示意图" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+  **Bidirectional Feature Globalization for Few-shot Semantic Segmentation of 3D Point Cloud Scenes** [[**Paper Link**]](https://arxiv.org/pdf/2208.06671)
+  **Y. Mao**, Z. Guo, X. Lu, Z. Yuan, H. Guo
+  *2022 International Conference on 3D Vision (3DV2022, Oral)* ***(IEEE 3DV Oral)*** 
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <img src='images/LIGHT.png' alt="论文示意图" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+  **LIGHT: JOINT INDIVIDUAL BUILDING EXTRACTION AND HEIGHT ESTIMATION FROM SATELLITE IMAGES THROUGH A UNIFIED MULTITASK LEARNING NETWORK** [[**Paper Link**]](https://arxiv.org/pdf/2304.01090)
+  **Y. Mao**, X. Sun, X. Huang, K. Chen
+  *IGARSS 2023-2023 IEEE International Geoscience and Remote Sensing Symposium* ***(IGARSS 2023)*** 
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <img src='images/DGConv.png' alt="论文示意图" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+  **Semantic Segmentation for Point Cloud Scenes via Dilated Graph Feature Aggregation and Pyramid Decoders** [[**Paper Link**]](https://arxiv.org/pdf/2204.04944.pdf)
+  **Y. Mao**, X. Sun, W. Diao, K. Chen, Z. Guo, X. Lu, K. Fu
+  *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI) Workshops 2022* ***(AAAI Workshops 2022)*** 
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <img src='images/ADMLP.png' alt="论文示意图" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+  **Rethinking the Open-Loop Evaluation of End-to-End Autonomous Driving in nuScenes** [[**Paper Link**]](https://arxiv.org/pdf/2305.10430)
+  J. Zhai*, Z. Feng*, J. Du*, **Y. Mao***, J. Liu, Z. Tan, Y. Zhang, X. Ye, J. Wang (*Equal contribution)
+  *Technical Report* ***(Technical Report)*** 
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <img src='images/PAT.png' alt="论文示意图" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+  **Prompt-and-Transfer: Dynamic Class-aware Enhancement for Few-shot Segmentation** [[**Paper Link**]](https://arxiv.org/pdf/2409.10389)
+  H. Bi, Y. Feng, W. Diao, P. Wang, **Y. Mao**, K. Fu, H. Wang, X. Sun
+  *IEEE Transactions on Pattern Analysis and Machine Intelligence* ***(IEEE TPAMI, Top, IF=20.8)*** 
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <img src='images/GABLE.png' alt="论文示意图" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+  **GABLE: A first fine-grained 3D building model of China on a national scale from very high resolution satellite imagery** [[**Paper Link**]](https://www.sciencedirect.com/science/article/pii/S0034425724000683)
+  X. Sun, X. Huang, **Y. Mao**, T. Sheng, J. Li, Z. Wang, X. Lu, X. Ma, D. Tang, K. Chen
+  *Remote Sensing of Environment* ***(RSE, Top, IF=11.1)*** 
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <img src='images/ICPE.png' alt="论文示意图" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+  **Breaking immutable: Information-coupled prototype elaboration for few-shot object detection** [[**Paper Link**]](https://ojs.aaai.org/index.php/AAAI/article/view/25274)
+  X. Lu, W. Diao, **Y. Mao**, J. Li, P. Wang, X. Sun, K. Fu
+  *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI) 2023* ***(AAAI 2023)*** 
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <img src='images/PICS.png' alt="论文示意图" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+  **PICS: Paradigms integration and contrastive selection for semisupervised remote sensing images semantic segmentation** [[**Paper Link**]](https://ieeexplore.ieee.org/abstract/document/10024804)
+  X. Qi, **Y. Mao**, Y. Zhang, Y. Deng, H. Wei, L. Wang<
+  *IEEE Transactions on Geoscience and Remote Sensing* ***(IEEE TGRS, Top, IF=8.6)*** 
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <img src='images/TAFormer.png' alt="论文示意图" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+  **TAFormer: A Unified Target-Aware Transformer for Video and Motion Joint Prediction in Aerial Scenes** [[**Paper Link**]](https://arxiv.org/pdf/2403.18238)
+  L. Xu, W. Lu, H. Yu, **Y. Mao**, H. Bi, C. Liu, X. Sun, K. Fu
+  *IEEE Transactions on Geoscience and Remote Sensing* ***(IEEE TGRS, Top, IF=8.6)*** 
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <img src='images/TEMO.png' alt="论文示意图" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+  **Few-shot object detection in aerial imagery guided by text-modal knowledge** [[**Paper Link**]](https://ieeexplore.ieee.org/abstract/document/10056362)
+  X. Lu, X. Sun, W. Diao, **Y. Mao**, J. Li, Y. Zhang, P. Wang, K. Fu
+  *IEEE Transactions on Geoscience and Remote Sensing* ***(IEEE TGRS, Top, IF=8.6)*** 
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <img src='images/DMNet.png' alt="论文示意图" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+  **Bridging the Gap Between Cumbersome and Light Detectors via Layer-Calibration and Task-Disentangle Distillation in Remote Sensing Imagery** [[**Paper Link**]](https://ieeexplore.ieee.org/abstract/document/10288551)
+  H. Bi, Y. Feng, Z. Yan, **Y. Mao**, W. Diao, H. Wang, X. Sun
+  *IEEE Transactions on Geoscience and Remote Sensing* ***(IEEE TGRS, Top, IF=8.6)*** 
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <img src='images/SeLo.png' alt="论文示意图" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+  **Learning to evaluate performance of multi-modal semantic localization** [[**Paper Link**]](https://arxiv.org/abs/2209.06515)
+  Z. Yuan, W. Zhang, C. Li, Z. Pan, **Y. Mao**, J. Chen, S. Li, H. Wang, X. Sun
+  *IEEE Transactions on Geoscience and Remote Sensing* ***(IEEE TGRS, Top, IF=8.6)*** 
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <img src='images/LTD.png' alt="论文示意图" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+  **Bridging the Gap Between Cumbersome and Light Detectors via Layer-Calibration and Task-Disentangle Distillation in Remote Sensing Imagery** [[**Paper Link**]](https://ieeexplore.ieee.org/abstract/document/10034812)
+  Y. Zhang, Z. Yan, X. Sun, X. Lu, J. Li, **Y. Mao**, L. Wang 
+  *IEEE Transactions on Geoscience and Remote Sensing* ***(IEEE TGRS, Top, IF=8.6)*** 
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <img src='images/MCRN.png' alt="论文示意图" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+  **MCRN: A Multi-source Cross-modal Retrieval Network for remote sensing** [[**Paper Link**]](https://www.sciencedirect.com/science/article/pii/S156984322200259X)
+  Z. Yuan, W. Zhang, C. Tian, **Y. Mao**, R. Zhou, H. Wang, K. Fu, X. Sun
+  *International Journal of Applied Earth Observation and Geoinformation* ***(IJAG, Top, IF=7.5)*** 
+  </div>
+</div>
+
+# 🚀 Projects
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <img src='images/DFC2023.png' alt="论文示意图" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+  
+  **2023 IEEE GRSS Data Fusion Contest** [[**Website**]](https://www.grss-ieee.org/technical-committees/image-analysis-and-data-fusion/?tab=data-fusion-contest)
+  - *2024.01 - 2024.4*, Student Leader
+  - Organization: Aerospace Information Research Institute, Chinese Academy of Sciences; Universität der Bundeswehr München; GEOVIS Earth Technology; IEEE GRSS
+  - [Baseline Code](https://github.com/AICyberTeam/DFC2023-baseline)
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <img src='images/3DBuilding.gif' alt="论文示意图" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+  
+  **Large-scale Urban Building Reconstruction**
+  - *2023.01 - 2023.08*, Student Leader
+  - Cooperate with GEOVIS Earth Technology
+  - **Y. Mao**, K. Chen, X. Huang, X. Sun, and GEOVIS Earth Technology
+  </div>
+</div>
 
 
 # 🎖 Honors and Awards
@@ -102,4 +349,14 @@ Yong-Qiang Mao's research interests include remote sensing and computer vision, 
 - IEEE Geoscience and Remote Sensing Letters (IEEE GRSL)
 - International Journal of Computer Vision (IJCV)
 - Remote Sensing
- 
+- 
+<div style="text-align: center; margin: 30px 0; padding: 20px; border-top: 1px solid #eee;">
+  <a href="https://clustrmaps.com/site/1c6rd" title="ClustrMaps">
+    <img 
+      src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=HRJUStWkCzVJNYj1eBbf2gulLkAey-vLYvOm9AqwlWY" 
+      alt="访客统计地图" 
+      style="max-width: 100%; height: auto; border: none; display: block; margin: 0 auto;"
+    />
+  </a>
+</div>
+
