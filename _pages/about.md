@@ -26,7 +26,6 @@ Yong-Qiang Mao's research interests include remote sensing and computer vision, 
 
 
 # 🔥 News
-served as Guest Editor of Remote Sensing
 - *2025.05*: &nbsp;🎉🎉 I'm serving as a **Guest Editor** for **[Remote Sensing](https://www.mdpi.com/journal/remotesensing/special_issues/5XJ0C86Y8D)** and warmly welcome submissions from researchers working in the field of remote sensing.
 - *2025.03*: &nbsp;🎉🎉 One paper about **Cross-modal Fine-grained Retrieval** has been accepted by **IEEE IGARSS 2025 Oral**!
 - *2025.02*: &nbsp;🎉🎉 One paper about **ALS Point Cloud Segmentation** has been accepted by **ISPRS Journal Ph & RS**!
