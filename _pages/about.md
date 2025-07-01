@@ -356,6 +356,7 @@ Yong-Qiang Mao's research interests include remote sensing and computer vision, 
 
 
 # 📖 Educations
+- *2024.07 - now*, **Assistant Researcher**, Department of Electronic Engineering, Tsinghua University.
 - *2019.09 - 2024.06*, **Doctor of Engineering**, Institute of Aerospace Information Innovation, Chinese Academy of Sciences.
 - *2015.09 - 2019.06*, **Bachelor of Engineering**, Electronic Information School, Wuhan University
 
@@ -365,22 +366,28 @@ Yong-Qiang Mao's research interests include remote sensing and computer vision, 
 - IEEE/CVF International Conference on Computer Vision (ICCV) 
 - European Conference on Computer Vision (ECCV)
 - International Conference on Pattern Recognition  (ICPR)
-- ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS Journal)
-- Pattern Recognition (PR)
-- Pattern Recognition Letters (PRL) 
-- Information Sciences
-- International Journal of Computer Vision (IJCV)
-- Scientific Reports
-- Multimedia Systems
-- ACM Transactions on Multimedia Computing Communications and Applications (ACM TOMM)
+- IEEE International Geoscience and Remote Sensing Symposium (IGARSS)
+- ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS Journal Ph & RS)
+- IEEE Transactions on Image Processing (IEEE TIP)
 - IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS)
 - IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)
-- IEEE Transactions on Image Processing (IEEE TIP)
-- International Journal of Applied Earth Observation and Geoinformation (IJAG)
 - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (IEEE JSTARS)
+- International Journal of Applied Earth Observation and Geoinformation (IJAG)
 - IEEE Geoscience and Remote Sensing Letters (IEEE GRSL)
-- International Journal of Computer Vision (IJCV)
+- IEEE Signal Processing Letters (IEEE SPL)
+- Information Fusion
+- Pattern Recognition (PR)
 - Remote Sensing
+- ACM Transactions on Multimedia Computing Communications and Applications (ACM TOMM)
+- International Journal of Computer Vision (IJCV)
+- Pattern Recognition Letters (PRL)
+- Computer Vision and Image Understanding (CVIU)
+- Engineering Applications of Artificial Intelligence (EAAI)
+- Neural Networks (NN)
+- International Journal of Digital Earth (IJDE)
+- Information Sciences
+- Scientific Reports
+- Multimedia Systems
 
 <div style="text-align: center; margin: 30px 0; padding: 20px; border-top: 1px solid #eee;">
   <a href="https://clustrmaps.com/site/1c6rd" title="ClustrMaps">
