@@ -350,8 +350,8 @@ Yong-Qiang Mao's research interests include remote sensing and computer vision, 
 
 # 🎖 Honors and Awards
 - *2025.08*: &nbsp;🎉🎉 Funded by the **Young Scientists Fund of the National Natural Science Foundation of China (国家自然科学基金青年基金项目C类)**!
-- *2025.07*: &nbsp;🎉🎉 Awarded with **General Fund of China Postdoctoral Science Foundation (博士后科学基金面上资助)**!
-- *2025.06*: &nbsp;🎉🎉 Awarded with **Shuimu Tsinghua Scholar (清华大学水木学者)**!
+- *2025.07*: &nbsp;🎉🎉 Awarded with **Shuimu Tsinghua Scholar (清华大学水木学者)**!
+- *2025.06*: &nbsp;🎉🎉 Awarded with **General Fund of China Postdoctoral Science Foundation (博士后科学基金面上资助)**!
 - *2025.06*: &nbsp;🎉🎉 Awarded with **China National Postdoctoral Program for Innovative Talents (2025年度博士后创新人才支持计划, 博新计划)**!
 - *2025.05*: &nbsp;🎉🎉 Awarded with **2025 Rising Star of Radar (2025年度雷达未来之星)**!
 - *2022.12*: &nbsp;🎉🎉 Awarded with **'Editor’s Article Choice of the Year 2022' of ISPRS Journal Ph & RS**!
