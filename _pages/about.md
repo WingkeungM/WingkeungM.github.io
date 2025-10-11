@@ -24,7 +24,7 @@ Yong-Qiang Mao received the B. E. degree from [Electronic Information School](ht
 
 Yong-Qiang Mao's research interests include remote sensing and computer vision, with a focus on 3D Perception (Point Cloud and Reconstruction), Multimodal Remote Sensing (Semantic Segmentation and Object Detection), Cross-modal retrieval, Large Foundation Models, Few-shot Learning.
 
-非常欢迎对遥感多源信息处理、遥感基础模型研究感兴趣的本科生或研究生联系我，进行线下或线上的合作交流。
+非常欢迎对遥感多源信息处理、遥感基础模型研究感兴趣的本科生或研究生联系我，进行线下或线上的合作交流。请随时通过电子邮件与我联系。
 
 
 # 🔥 News
