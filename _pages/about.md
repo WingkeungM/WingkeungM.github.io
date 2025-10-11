@@ -24,6 +24,8 @@ Yong-Qiang Mao received the B. E. degree from [Electronic Information School](ht
 
 Yong-Qiang Mao's research interests include remote sensing and computer vision, with a focus on 3D Perception (Point Cloud and Reconstruction), Multimodal Remote Sensing (Semantic Segmentation and Object Detection), Cross-modal retrieval, Large Foundation Models, Few-shot Learning.
 
+非常欢迎对遥感多源信息处理、遥感基础模型研究感兴趣的本科生或研究生联系我，进行线下或线上的合作交流。
+
 
 # 🔥 News
 - *2025.05*: &nbsp;🎉🎉 I'm serving as a **Guest Editor** for **[Remote Sensing](https://www.mdpi.com/journal/remotesensing/special_issues/5XJ0C86Y8D)** and warmly welcome submissions from researchers working in the field of remote sensing.
@@ -347,7 +349,9 @@ Yong-Qiang Mao's research interests include remote sensing and computer vision, 
 
 
 # 🎖 Honors and Awards
-- *2025.06*: &nbsp;🎉🎉 Awarded with **General Fund of China Postdoctoral Science Foundation (博士后科学基金面上资助)**!
+- *2025.08*: &nbsp;🎉🎉 Funded by the **Young Scientists Fund of the National Natural Science Foundation of China (国家自然科学基金青年基金项目C类)**!
+- *2025.07*: &nbsp;🎉🎉 Awarded with **General Fund of China Postdoctoral Science Foundation (博士后科学基金面上资助)**!
+- *2025.06*: &nbsp;🎉🎉 Awarded with **Shuimu Tsinghua Scholar (清华大学水木学者)**!
 - *2025.06*: &nbsp;🎉🎉 Awarded with **China National Postdoctoral Program for Innovative Talents (2025年度博士后创新人才支持计划, 博新计划)**!
 - *2025.05*: &nbsp;🎉🎉 Awarded with **2025 Rising Star of Radar (2025年度雷达未来之星)**!
 - *2022.12*: &nbsp;🎉🎉 Awarded with **'Editor’s Article Choice of the Year 2022' of ISPRS Journal Ph & RS**!
