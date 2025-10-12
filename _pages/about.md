@@ -20,7 +20,7 @@ redirect_from:
 
 Yong-Qiang Mao is now an assistant researcher at the [Department of Electronic Engineering, Tsinghua University](https://www.ee.tsinghua.edu.cn/). Yong-Qiang Mao received his Ph.D. degree in [Aerospace Information Research Institute (Institute of Electronics), Chinese Academy of Sciences](http://www.aircas.ac.cn/) & [School of Electronic, Electrical and Communication Engineering](https://eece.ucas.ac.cn/), [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/). 
 His research advisors are [Prof. Kun Fu](http://people.ucas.ac.cn/~fukun) and [Prof. Xian Sun](http://people.ucas.ac.cn/~sunxian). 
-Yong-Qiang Mao received the B. E. degree from [Electronic Information School](http://http://eis.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/), Wuhan, China, in 2019.
+Yong-Qiang Mao received the B. E. degree from [Wuhan University](https://www.whu.edu.cn/), Wuhan, China, in 2019.
 
 Yong-Qiang Mao's research interests include remote sensing and computer vision, with a focus on 3D Perception (Point Cloud and Reconstruction), Multimodal Remote Sensing (Semantic Segmentation and Object Detection), Cross-modal retrieval, Large Foundation Models, Few-shot Learning.
 
