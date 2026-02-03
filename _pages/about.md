@@ -28,6 +28,10 @@ Yong-Qiang Mao's research interests include remote sensing and computer vision, 
 
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉🎉 One paper about **Segment Anything Model for Remote Sensing Segmentation** has been accepted by **IEEE TGRS**!
+- *2025.12*: &nbsp;🎉🎉 One paper about **Multi-Modal Foundation Models** has been accepted by **IEEE TPAMI**!
+- *2025.07*: &nbsp;🎉🎉 One paper about **Multi-modal Aligned Remote Sensing Targets Dataset and Benchmark** has been released on **arXiv**!
+- *2025.10*: &nbsp;🎉🎉 I'm serving as a **Guest Editor** for **[Remote Sensing](https://www.mdpi.com/journal/remotesensing/special_issues/4T01KQ4Z9C)** and warmly welcome submissions from researchers working in the field of remote sensing.
 - *2025.05*: &nbsp;🎉🎉 I'm serving as a **Guest Editor** for **[Remote Sensing](https://www.mdpi.com/journal/remotesensing/special_issues/5XJ0C86Y8D)** and warmly welcome submissions from researchers working in the field of remote sensing.
 - *2025.03*: &nbsp;🎉🎉 One paper about **Cross-modal Fine-grained Retrieval** has been accepted by **IEEE IGARSS 2025 Oral**!
 - *2025.02*: &nbsp;🎉🎉 One paper about **ALS Point Cloud Segmentation** has been accepted by **ISPRS Journal Ph & RS**!
@@ -55,7 +59,7 @@ Yong-Qiang Mao's research interests include remote sensing and computer vision, 
 - *2021.12*: &nbsp;🎉🎉 One paper about **Point Cloud Segmentation** has been accepted by **DLG-AAAI 2022**!
 
 
-# 📝 Publications 
+# 📝 Publications (Selected)
 
 <div class='paper-box'>
   <div class='paper-box-image'>
