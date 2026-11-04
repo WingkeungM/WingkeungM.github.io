@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # 👋 Biography [[Google Scholar]](https://scholar.google.com/citations?user=3bWHKh0AAAAJ&hl=zh-CN) [[Homepage]](https://cc.nankai.edu.cn/2021/0323/c13620a605921/page.htm)
 
-Yong-Qiang Mao is now an Associate Professor at the College of Computer Science, Nankai University. Before that, Yong-Qiang Mao served as an assistant researcher in the Department of Electronic Engineering at Tsinghua University. His co-supervisor is You He (Academician of the Chinese Academy of Engineering). He received his Ph.D. degree in Aerospace Information Research Institute (Institute of Electronics), Chinese Academy of Sciences & School of Electronic, Electrical and Communication Engineering, University of Chinese Academy of Sciences. His research advisors are [Prof. Kun Fu](http://people.ucas.ac.cn/~fukun) and [Prof. Xian Sun](http://people.ucas.ac.cn/~sunxian). He received the B. E. degree from Wuhan University, Wuhan, China, in 2019. His research interests include multimodal data processing, remote sensing image processing, AI4Earth, and multimodal foundation models for remote sensing. He has published over 30 papers in top-tier journals and conferences.
+Yong-Qiang Mao is now an Associate Professor at the College of Computer Science, Nankai University. Before that, Yong-Qiang Mao served as an assistant researcher in the Department of Electronic Engineering at Tsinghua University. His co-supervisor is You He (Academician of the Chinese Academy of Engineering). He received his Ph.D. degree from Aerospace Information Research Institute (Institute of Electronics), Chinese Academy of Sciences & School of Electronic, Electrical and Communication Engineering, University of Chinese Academy of Sciences. His research advisors are [Prof. Kun Fu](http://people.ucas.ac.cn/~fukun) and [Prof. Xian Sun](http://people.ucas.ac.cn/~sunxian). He received the B. E. degree from Wuhan University. His research interests include multimodal data processing, remote sensing image processing, AI4Earth, and multimodal foundation models for remote sensing. He has published over 30 papers in top-tier journals and conferences.
 
 毛永强，南开大学计算机学院百青副教授，博士生导师，入选南开大学百名青年学科带头人计划。研究方向为多模态数据处理，遥感图像处理，AI4Earth，遥感多模态基础模型。在人工智能顶级期刊IEEE TPAMI，遥感图像处理顶级期刊IEEE TGRS等顶级期刊和会议上发表30余篇学术论文，3篇论文入选ESI高被引论文，申请发明专利10余项。入选博士后创新人才支持计划（博新计划），清华大学水木学者（清华大学高层次青年人才培养计划）。曾获2025年全国十大雷达未来之星（全国仅10人），会议最佳论文，顶刊主编推荐论文等荣誉或奖项。主持国家自然科学基金青年科学基金项目[C类]，中国博士后科学基金面上资助等多项国家级/省部级纵向项目，作为核心技术骨干参与国家自然科学基金基础科学中心、国家重点研发计划等多项国家级/省部级重大课题。担任IEEE TIP、IEEE TGRS、ISPRS Journal Ph&RS等顶刊/顶会审稿人，多次担任Remote Sensing期刊专刊客座编辑。
 
@@ -304,7 +304,7 @@ Yong-Qiang Mao is now an Associate Professor at the College of Computer Science,
   
   **2023 IEEE GRSS Data Fusion Contest** [[**Website**]](https://www.grss-ieee.org/technical-committees/image-analysis-and-data-fusion/?tab=data-fusion-contest)
   
-  - *2024.01 - 2024.4*, Student Leader
+  - *2024.01 - 2024.4*
   - Organization: Aerospace Information Research Institute, Chinese Academy of Sciences; Universität der Bundeswehr München; GEOVIS Earth Technology; IEEE GRSS
   - [Baseline Code](https://github.com/AICyberTeam/DFC2023-baseline)
   </div>
@@ -318,7 +318,7 @@ Yong-Qiang Mao is now an Associate Professor at the College of Computer Science,
   
   **Large-scale Urban Building Reconstruction**
   
-  - *2023.01 - 2023.08*, Student Leader
+  - *2023.01 - 2023.08*, Leader
   - Cooperate with GEOVIS Earth Technology
   - **Y. Mao**, K. Chen, X. Huang, X. Sun, and GEOVIS Earth Technology
   </div>
