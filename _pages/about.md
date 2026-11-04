@@ -16,16 +16,13 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-# 👋 Biography [[Google Scholar]](https://scholar.google.com/citations?user=3bWHKh0AAAAJ&hl=zh-CN)
+# 👋 Biography [[Google Scholar]](https://scholar.google.com/citations?user=3bWHKh0AAAAJ&hl=zh-CN)[[Homepage]](https://scholar.google.com/citations?user=3bWHKh0AAAAJ&hl=zh-CN](https://cc.nankai.edu.cn/2021/0323/c13620a605921/page.htm)
 
-Yong-Qiang Mao is now an assistant researcher at the [Department of Electronic Engineering, Tsinghua University](https://www.ee.tsinghua.edu.cn/). Yong-Qiang Mao received his Ph.D. degree in [Aerospace Information Research Institute (Institute of Electronics), Chinese Academy of Sciences](http://www.aircas.ac.cn/) & [School of Electronic, Electrical and Communication Engineering](https://eece.ucas.ac.cn/), [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/). 
-His research advisors are [Prof. Kun Fu](http://people.ucas.ac.cn/~fukun) and [Prof. Xian Sun](http://people.ucas.ac.cn/~sunxian). 
-Yong-Qiang Mao received the B. E. degree from [Wuhan University](https://www.whu.edu.cn/), Wuhan, China, in 2019.
+Yong-Qiang Mao is now an Associate Professor at the College of Computer Science, Nankai University. Before that, Yong-Qiang Mao previously served as an assistant researcher in the Department of Electronic Engineering at Tsinghua University. His co-supervisor is You He (Academician of the Chinese Academy of Engineering). He received his Ph.D. degree in Aerospace Information Research Institute (Institute of Electronics), Chinese Academy of Sciences & School of Electronic, Electrical and Communication Engineering, University of Chinese Academy of Sciences. His research advisors are [Prof. Kun Fu](http://people.ucas.ac.cn/~fukun) and [Prof. Xian Sun](http://people.ucas.ac.cn/~sunxian). He received the B. E. degree from Wuhan University, Wuhan, China, in 2019. His research interests include multimodal data processing, remote sensing image processing, AI4Earth, and multimodal foundation models for remote sensing. He has published over 30 papers in top-tier journals and conferences.
 
-Yong-Qiang Mao's research interests include remote sensing and computer vision, with a focus on 3D Perception (Point Cloud and Reconstruction), Multimodal Remote Sensing (Semantic Segmentation and Object Detection), Cross-modal retrieval, Large Foundation Models, Few-shot Learning.
+毛永强，南开大学计算机学院百青副教授，博士生导师，入选南开大学百名青年学科带头人计划。研究方向为多模态数据处理，遥感图像处理，AI4Earth，遥感多模态基础模型。在人工智能顶级期刊IEEE TPAMI，遥感图像处理顶级期刊IEEE TGRS等顶级期刊和会议上发表30余篇学术论文，3篇论文入选ESI高被引论文，申请发明专利10余项。入选博士后创新人才支持计划（博新计划），清华大学水木学者（清华大学高层次青年人才培养计划）。曾获2025年全国十大雷达未来之星（全国仅10人），会议最佳论文，顶刊主编推荐论文等荣誉或奖项。主持国家自然科学基金青年科学基金项目[C类]，中国博士后科学基金面上资助等多项国家级/省部级纵向项目，作为核心技术骨干参与国家自然科学基金基础科学中心、国家重点研发计划等多项国家级/省部级重大课题。担任IEEE TIP、IEEE TGRS、ISPRS Journal Ph&RS等顶刊/顶会审稿人，多次担任Remote Sensing期刊专刊客座编辑。
 
-非常欢迎对遥感多源信息处理、遥感基础模型研究感兴趣的本科生或研究生联系我，进行线下或线上的合作交流。请随时通过电子邮件与我联系。
-
+非常欢迎对人工智能、遥感图像处理、基础模型、AI4Earth感兴趣的同学联系，招收学博、专博和学硕、专硕，请随时通过电子邮件与我联系：maoyq@nankai.edu.cn。同时，非常欢迎感兴趣的本科生或研究生联系我进行线下（南开大学津南校区、清华大学校本部）或线上的科研实习，本人将择优提供科研指导。
 
 # 🔥 News
 - *2026.01*: &nbsp;🎉🎉 One paper about **Segment Anything Model for Remote Sensing Segmentation** has been accepted by **IEEE TGRS**!
@@ -33,30 +30,6 @@ Yong-Qiang Mao's research interests include remote sensing and computer vision, 
 - *2025.10*: &nbsp;🎉🎉 I'm serving as a **Guest Editor** for **[Remote Sensing](https://www.mdpi.com/journal/remotesensing/special_issues/4T01KQ4Z9C)** and warmly welcome submissions from researchers working in the field of remote sensing.
 - *2025.07*: &nbsp;🎉🎉 One paper about **Multi-modal Aligned Remote Sensing Targets Dataset and Benchmark** has been released on **arXiv**!
 - *2025.05*: &nbsp;🎉🎉 I'm serving as a **Guest Editor** for **[Remote Sensing](https://www.mdpi.com/journal/remotesensing/special_issues/5XJ0C86Y8D)** and warmly welcome submissions from researchers working in the field of remote sensing.
-- *2025.03*: &nbsp;🎉🎉 One paper about **Cross-modal Fine-grained Retrieval** has been accepted by **IEEE IGARSS 2025 Oral**!
-- *2025.02*: &nbsp;🎉🎉 One paper about **ALS Point Cloud Segmentation** has been accepted by **ISPRS Journal Ph & RS**!
-- *2025.02*: &nbsp;🎉🎉 One paper about **Fine-grained Retrieval** has been accepted by **IEEE JSTARS**!
-- *2024.09*: &nbsp;🎉🎉 One paper about **Few-shot Segmantic Segmentation** has been accepted by **IEEE TPAMI**!
-- *2024.09*: &nbsp;🎉🎉 One paper about **Few-shot Segmantic Segmentation** has been accepted by **IJCV**!
-- *2024.09*: &nbsp;🎉🎉 One paper about **Few-shot Segmantic Segmentation** has been accepted by **IEEE GRSL**!
-- *2024.08*: &nbsp;🎉🎉 One paper about **Multi-view Stereo** has been accepted by **IEEE TGRS**!
-- *2024.05*: &nbsp;🎉🎉 One paper about **Video and Motion Joint Prediction** has been accepted by **IEEE TGRS**!
-- *2024.02*: &nbsp;🎉🎉 One paper about **Fine-grained 3D Building Model** has been accepted by **RSE**!
-- *2023.10*: &nbsp;🎉🎉 One paper about **Few-shot Segmantic Segmentation** has been accepted by **IEEE TGRS**!
-- *2023.05*: &nbsp;🎉🎉 One paper about **Multi-task Learning** has been accepted by **IEEE IGARSS 2023**!
-- *2023.05*: &nbsp;🎉🎉 One paper about **End-to-end Autonomous Driving** has been released as **Technical Report**!
-- *2023.05*: &nbsp;🎉🎉 One paper about **UAV Object Detection** has been accepted by **ISPRS Journal Ph & RS**!
-- *2023.04*: &nbsp;🎉🎉 One paper about **Building 3d Reconstruction** has been accepted by **IEEE TGRS**!
-- *2023.02*: &nbsp;🎉🎉 One paper about **Few-shot Object Detection** has been accepted by **IEEE TGRS**!
-- *2023.02*: &nbsp;🎉🎉 One paper about **Object Detection** has been accepted by **IEEE TGRS**!
-- *2023.01*: &nbsp;🎉🎉 We successfully held the **2023 IEEE GRSS Data Fusion Contest (DFC2023)**!
-- *2023.01*: &nbsp;🎉🎉 One paper about **Semi-supervised Segmentation** has been accepted by **IEEE TGRS**!
-- *2022.12*: &nbsp;🎉🎉 One paper about **Cross-modal Retrieval** has been accepted by **IJAG**!
-- *2022.12*: &nbsp;🎉🎉 One paper about **Few-shot Object Detection** has been accepted by **AAAI 2023**!
-- *2022.09*: &nbsp;🎉🎉 One paper about **Multi-modal Semantic Localization** has been accepted by **IEEE TGRS**!
-- *2022.07*: &nbsp;🎉🎉 One paper about **Point Cloud Few-shot Segmentation** has been accepted by **IEEE 3DV Oral**!
-- *2022.04*: &nbsp;🎉🎉 One paper about **ALS Point Cloud Segmentation** has been accepted by **ISPRS Journal Ph & RS**!
-- *2021.12*: &nbsp;🎉🎉 One paper about **Point Cloud Segmentation** has been accepted by **DLG-AAAI 2022**!
 
 
 # 📝 Publications (Selected)
@@ -365,8 +338,9 @@ Yong-Qiang Mao's research interests include remote sensing and computer vision, 
 
 
 # 📖 Educations
-- *2024.07 - now*, **Assistant Researcher**, Department of Electronic Engineering, Tsinghua University.
-- *2019.09 - 2024.06*, **Doctor of Engineering**, Institute of Aerospace Information Innovation, Chinese Academy of Sciences.
+- *2026.10 - now*, **Associate Professor**, College of Computer Science, Nankai University. 
+- *2024.07 - 2026.09*, **Assistant Researcher**, Department of Electronic Engineering, Tsinghua University.
+- *2019.09 - 2024.06*, **Doctor of Engineering**, Aerospace Information Research Institute, Chinese Academy of Sciences.
 - *2015.09 - 2019.06*, **Bachelor of Engineering**, Electronic Information School, Wuhan University
 
 
