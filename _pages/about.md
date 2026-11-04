@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-# 👋 Biography [[Google Scholar]](https://scholar.google.com/citations?user=3bWHKh0AAAAJ&hl=zh-CN)[Homepage](https://scholar.google.com/citations?user=3bWHKh0AAAAJ&hl=zh-CN](https://cc.nankai.edu.cn/2021/0323/c13620a605921/page.htm)
+# 👋 Biography [[Google Scholar]](https://scholar.google.com/citations?user=3bWHKh0AAAAJ&hl=zh-CN) [[Homepage]](https://cc.nankai.edu.cn/2021/0323/c13620a605921/page.htm)
 
 Yong-Qiang Mao is now an Associate Professor at the College of Computer Science, Nankai University. Before that, Yong-Qiang Mao previously served as an assistant researcher in the Department of Electronic Engineering at Tsinghua University. His co-supervisor is You He (Academician of the Chinese Academy of Engineering). He received his Ph.D. degree in Aerospace Information Research Institute (Institute of Electronics), Chinese Academy of Sciences & School of Electronic, Electrical and Communication Engineering, University of Chinese Academy of Sciences. His research advisors are [Prof. Kun Fu](http://people.ucas.ac.cn/~fukun) and [Prof. Xian Sun](http://people.ucas.ac.cn/~sunxian). He received the B. E. degree from Wuhan University, Wuhan, China, in 2019. His research interests include multimodal data processing, remote sensing image processing, AI4Earth, and multimodal foundation models for remote sensing. He has published over 30 papers in top-tier journals and conferences.
 
