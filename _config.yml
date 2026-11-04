@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yong-Qiang Mao"
-description              : "Assistant Researcher at the Department of Electronic Engineering, Tsinghua University. Research direction is remote sensing multimodal information processing."
+description              : "Associate Professor at the College of Computer Science, Nankai University. Research direction is computer vision and remote sensing image processing."
 repository               : "WingkeungM/WingkeungM.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yong-Qiang Mao"
   avatar           : "images/maoyongqiang.jpg"
-  bio              : "Tsinghua University"
-  location         : "Beijing, China"
+  bio              : "Nankai University"
+  location         : "Tianjin, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=3bWHKh0AAAAJ&hl=zh-CN"
-  email            : "maoyq@mail.tsinghua.edu.cn"
+  email            : "maoyq@nankai.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
